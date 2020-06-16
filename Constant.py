@@ -34,7 +34,7 @@ NO_INDEX = """
 		<h3>The index page was not found</h3>
 		<p>We are sorry,but the index page was not found.</p>
 		<p>Server owner maybe No settings</p>
-		<a href="https://github.com">Click to HuoServer's Github address</a>
+		<a href="https://github.com/Dream2868/HuoServer">Click to HuoServer's Github address</a>
 		<p>***  Service provided by HuoServer  ***</p>
 	</body>
 </html>
